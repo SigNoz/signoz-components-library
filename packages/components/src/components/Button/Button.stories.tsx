@@ -3,7 +3,7 @@ import { Meta } from "@storybook/react";
 import { Button, ButtonSize, ButtonVariant  } from "./Button"
 
 export default {
-  title: "Atoms/Button",
+  title: "Periscope/Button",
   component: Button,
 } as Meta;
 
