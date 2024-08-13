@@ -70,6 +70,14 @@
   border: 1px solid var(--color-secondary);
 }
 
+.ButtonBorderNone {
+  box-sizing: border-box;
+}
+
+.ButtonBorderSolid {
+  box-sizing: border-box;
+}
+
 .ButtonBorderDashed {
   background-color: transparent;
   color: var(--color-secondary);
